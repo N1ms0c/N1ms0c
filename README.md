@@ -1,6 +1,53 @@
+# 👋 Hello! I'm Nimsoc
 
-<h3 align="center">WebDev</h3>
+I'm a passionate **Fullstack Web Developer** and **Software Engineer** with a love for building scalable, efficient, and user-friendly applications. My experience spans across **Java**, **Angular**, **DevOps**, and a variety of other modern technologies. 
 
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌱 I’m constantly learning and experimenting with new technologies to improve my skills.
+- 👨‍💻 I have hands-on experience with both **front-end** and **back-end** technologies.
+- 💡 I enjoy solving complex problems with efficient solutions, optimizing performance, and ensuring security.
+
+## 🛠️ My Tech Stack
+
+### Languages & Frameworks
+- **Java**: Building robust back-end services using Spring Boot & Hibernate.
+- **JavaScript/TypeScript**: Building dynamic user interfaces with Angular.
+- **HTML/CSS**: Crafting responsive and accessible web designs (including **Flexbox** and **CSS Grid**).
+- **Python & Bash**: Scripting and automating tasks.
+- **SQL/NoSQL**: Database management and optimization.
+
+### Frontend
+- **Angular**: Building scalable and maintainable single-page applications.
+- **TypeScript**: For type-safe front-end development.
+- **Bootstrap**: For quick and responsive web design.
+- **RxJS**: Managing state and asynchronous data streams.
+
+### Backend & DevOps
+- **Java (Spring Boot, Hibernate)**: Deep expertise in creating powerful REST APIs.
+- **Docker**: Containerizing applications for consistency in development, testing, and production environments.
+- **Kubernetes**: Managing scalable cloud-native applications.
+- **CI/CD Pipelines**: Automating builds and deployments with tools like Jenkins, GitLab CI.
+- **AWS**: Experience with cloud services such as EC2, S3, and RDS.
+
+### Databases
+- **MySQL/PostgreSQL**: Traditional relational databases.
+- **MongoDB**: NoSQL database for highly scalable apps.
+- **Redis**: In-memory data structure store used as a database, cache, and message broker.
+
+### DevOps & Tools
+- **Git/GitHub**: Version control and collaboration on large-scale projects.
+- **Jenkins, GitLab CI**: For continuous integration and delivery.
+- **Docker & Kubernetes**: Orchestrating, deploying, and managing applications in containers.
+- **Nginx/Apache**: Web server setup and configuration.
+- **SonarQube**: Static code analysis to maintain code quality.
+
+## 🛠️ Tools I Use
+- **VS Code**, **IntelliJ IDEA**: My go-to IDEs.
+- **Postman**: For API testing and debugging.
+- **Docker**: For containerization of projects.
+- **GitHub**: For version control and collaboration.
+- **JIRA**: For project management and task tracking.
+
+---
+💡 "Keep coding, keep growing!"
